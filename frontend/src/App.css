@@ -1,0 +1,89 @@
+.header {
+  background-color: #4a90e2; /* Bright Blue */
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0; /* Reduced padding */
+  font-size: 1.5rem; /* Reduced font size */
+  font-weight: bold;
+  border-bottom: 3px solid #32cd32; /* Parrot Green Border */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.footer {
+  background-color: #4a90e2; /* Bright Blue */
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0; /* Reduced padding */
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 1rem; /* Reduced font size */
+  font-weight: bold;
+  border-top: 3px solid #32cd32; /* Parrot Green Border */
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.main-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0;
+  background-color: #f0f8ff; /* AliceBlue */
+  min-height: 100vh; /* Ensure it covers the entire viewport height */
+}
+
+.selector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  background-color: #ffffff; /* White */
+  border: 1px solid #dcdcdc; /* Light Gray Border */
+  border-radius: 8px; /* Rounded corners */
+  padding: 2rem; /* Padding around the container */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.selector label {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color: #333; /* Dark Gray */
+}
+
+.selector select,
+.selector input[type="text"],
+.selector input[type="file"],
+.selector button {
+  width: 100%;
+  padding: 0.75rem; /* Increased padding for better touch area */
+  margin-bottom: 1rem;
+  border: 1px solid #ccc; /* Light Gray Border */
+  border-radius: 4px; /* Slightly rounded corners */
+  font-size: 1rem; /* Increase font size */
+}
+
+.selector select {
+  background-color: #e6f7ff; /* Light Blue */
+}
+
+.selector input[type="text"] {
+  background-color: #fffaf0; /* Floral White */
+}
+
+.selector input[type="file"] {
+  background-color: #fff0f5; /* Lavender Blush */
+}
+
+.selector button {
+  background-color: #ff7f50; /* Coral */
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.selector button:hover {
+  background-color: #ff4500; /* Orange Red */
+}

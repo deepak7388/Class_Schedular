@@ -1,0 +1,35 @@
+Year,Class,Day,Section,Semester,Lecture Type,Subject Code,Subject Name,Teacher,Room,Duration,Building Name,Room Number,Floor,Period Number,Problematic
+2024,CSC,MONDAY,10,5th,P,CSPC33,SOFT COMPUTING,Dr. Sweetie Sah,LAB 3,110,LAB,3,Ground,1,No
+2024,CSC,MONDAY,11,5th,P,CSPC35,SOFTWARE DEVELOPMENT,Dr. S.K.Jain,LAB 8,110,LAB,8,First,1,Yes
+2024,CSC,MONDAY,12,5th,L,CSPE35,Mobile Application Development,Mr. Praneet,Lab-9,110,Lab-,9,,1,Yes
+2024,CSC,MONDAY,9,5th,L,(P) CSPC31,ADSA,Mr. Nilanjan,LAB 10,110,LAB,10,First,1,Yes
+2024,CSC,MONDAY,9,5th,L,Automata Theory,CSPC37,Dr. Abhilasha,L LHC204,55,L LHC,204,First,7,Yes
+2024,CSC,MONDAY,9,5th,L,Dr. Amandeep Kaur,Mobile Application Development,,L LHC204CSPE35,55,L LHCCSPE,20435,Second,8,Yes
+2024,CSC,MONDAY,9,5th,L,Image Processing,CSPE77,Dr. Vishwas,L LHC204,55,L LHC,204,First,6,Yes
+2024,CSC,MONDAY,9,5th,L,Soft Computing,CSPC33,Dr. Sweeti Sah,L LHC202,55,L LHC,202,First,3,Yes
+2024,CSC,TUESDAY,9,5th,P,CSPC33,SOFT COMPUTING,Dr. Sweeti Sah,LAB 3,110,LAB,3,Ground,3,No
+2024,CSC,TUESDAY,9,5th,L,CSPC31,Advanced Data Structures and Algorithms,Mr. Rajan,LAB102,55,LAB,102,Ground,8,No
+2024,CSC,TUESDAY,12,5th,P,CSPC33,SOFT COMPUTING,Dr. Sweeti Sah,LAB 4,110,LAB,4,Ground,1,No
+2024,CSC,TUESDAY,11,5th,P,CSPE35,Mobile Application Development,Mr. Praneeth,LAB 1,110,LAB,1,Ground,1,No
+2024,CSC,TUESDAY,10,5th,P,CSPE35,Mobile Application Development,Dr. Amandeep Kaur,LAB 4,110,LAB,4,Ground,3,No
+2024,CSC,TUESDAY,9,5th,L,CSPC33,Soft Computing,Dr. Sweetie Sah,LAB102,55,LAB,102,Ground,6,No
+2024,CSC,TUESDAY,9,5th,L,CSPC35,Software Development using UML and Agile Methodology,Dr. Krishan Kumar,LAB102,55,LAB,102,Ground,7,No
+2024,CSC,TUESDAY,9,5th,P,CSPE35,Mobile Application Development,RUSHIKESH DAULAT PAWAR,LAB 9,110,LAB,9,First,1,Yes
+2024,CSC,WEDNESDAY,9,5th,L,CSPE35,Mobile Application Development,Dr. Amandeep Kaur,L LHC203,55,L LHC,203,First,8,Yes
+2024,CSC,WEDNESDAY,10,5th,P,CSPC35,SOFTWARE DEVELOPMENT,Dr. Vikram Singh,LAB 4,110,LAB,4,Ground,3,No
+2024,CSC,WEDNESDAY,9,5th,P,CSPC35,SOFTWARE DEVELOPMENT,Dr. Vikram Singh,LAB 6,110,LAB,6,First,1,Yes
+2024,CSC,WEDNESDAY,9,5th,L,CSPC35,Software Development using UML and Agile Methodology,Dr. Krishan Kumar,L LHC203,55,L LHC,203,First,6,Yes
+2024,CSC,WEDNESDAY,9,5th,L,CSPC37,Automata Theory,Dr. Abhilasha,L LHC203,55,L LHC,203,First,7,Yes
+2024,CSC,THURSDAY,10,5th,P,Mr. Dhairyansh,ADVANCED DATA STRUCTURES AND ALGORITHMS,,LAB 1,110,LAB,1,Ground,4,No
+2024,CSC,THURSDAY,11,5th,P,CSPC33,SOFT COMPUTING,Dr. Sweeti Sah,LAB 1,110,LAB,1,Ground,4,No
+2024,CSC,THURSDAY,12,5th,P,CSPC35,SOFTWARE DEVELOPMENT,Mr. Anshul,LAB 3,110,LAB,3,Ground,4,No
+2024,CSC,THURSDAY,9,5th,L,CSPC 39,Seminar,Prof. A.K.Singh,Seminar Room,110,Seminar Room,,,7,Yes
+2024,CSC,THURSDAY,9,5th,L,CSPC31,Advanced Data Structures and Algorithms,Mr. Rajan,L L4,55,L L,4,First,3,Yes
+2024,CSC,THURSDAY,9,5th,L,CSPC33,Soft Computing,Dr. Sweetie Sah,L L4,55,L L,4,First,2,Yes
+2024,CSC,THURSDAY,9,5th,L,CSPE77,Image Processing,Dr. Vishwas,L L4,55,L L,4,First,1,Yes
+2024,CSC,FRIDAY,9,5th,L,CSPC37,Automata Theory,Dr. Abhilasha,L L4,55,L L,4,First,1,Yes
+2024,CSC,FRIDAY,9,5th,L,CSPC35,Software Development using UML and Agile Methodology,Dr. Krishan Kumar,L L4,55,L L,4,First,2,Yes
+2024,CSC,FRIDAY,12,5th,P,CSPC31,ADVANCED DATA STRUCTURES AND ALGORITHMS,Mr. Dhairyansh,LAB 1,110,LAB,1,Ground,3,No
+2024,CSC,FRIDAY,9,5th,L,CSPE77,Image Processing,Dr. Vishwas,L L4,55,L L,4,First,4,Yes
+2024,CSC,FRIDAY,9,5th,L,CSPE35,Mobile Application Development,Dr. Amandeep Kaur,L L4,55,L L,4,First,5,Yes
+2024,CSC,FRIDAY,11,5th,P,CSPC31,ADVANCED DATA STRUCTURES AND ALGORITHMS,Mr. Nilanjan,LAB 1,110,LAB,1,Ground,3,No

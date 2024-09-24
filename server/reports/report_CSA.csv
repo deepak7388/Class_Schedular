@@ -1,0 +1,37 @@
+Year,Class,Day,Section,Semester,Lecture Type,Subject Code,Subject Name,Teacher,Room,Duration,Building Name,Room Number,Floor,Period Number,Problematic
+2024,CSA,MONDAY,1,5th,P,CSPC31,ADVANCED DATA STRUCTURES AND ALGORITHMS,Mr. kaushik,LAB 1,110,LAB,1,Ground,7,No
+2024,CSA,MONDAY,1,5th,L,CSPC37,Automata Theory,Dr. A.K.Patel,LHC103,55,LHC,103,Ground,6,No
+2024,CSA,MONDAY,1,5th,L,CSPE77,Image Processing,MS. Nidhi,LHC103,55,LHC,103,Ground,1,No
+2024,CSA,MONDAY,1,5th,L,Soft Computing,CSPC33,Dr. Bharati Sinha,LHC202,55,LHC,202,First,2,Yes
+2024,CSA,MONDAY,2,5th,P,CSPC33,SOFT COMPUTING,Dr. Bharati Sinha,LAB 6,110,LAB,6,First,4,Yes
+2024,CSA,MONDAY,3,5th,P,CSPC31,ADVANCED DATA STRUCTURES AND ALGORITHMS,Dr. Ritu Garg,LAB 6,110,LAB,6,First,1,Yes
+2024,CSA,MONDAY,3,5th,P,CSPC35,SOFTWARE DEVELOPMENT,Dr. S.K.Jain,LAB 10,110,LAB,10,First,4,Yes
+2024,CSA,MONDAY,4,5th,P,CSPE35,Mobile Application Development,Ms. Ikshita,LAB 3,110,LAB,3,Ground,4,No
+2024,CSA,TUESDAY,1,5th,L,Prof. A.K.Singh,Seminar CSPC 39,,Seminar Room,110,Seminar Room,,,7,Yes
+2024,CSA,TUESDAY,1,5th,L,CSPE35,Mobile Application Development,Mr. Rohit,L L2,55,L L,2,Ground,4,No
+2024,CSA,TUESDAY,1,5th,L,CSPC37,Automata Theory,Dr. A.K.Patel,L L2,55,L L,2,Ground,3,No
+2024,CSA,TUESDAY,1,5th,L,CSPC35,Software Development using UML and Agile Methodology,Dr. Vikram Singh,L L2,55,L L,2,Ground,1,No
+2024,CSA,TUESDAY,1,5th,L,CSPC33,Soft Computing,Dr. Bharati Sinha,L L2,55,L L,2,Ground,2,No
+2024,CSA,TUESDAY,1,5th,L,CSPC31,Advanced Data Structures andAlgorithms,Dr. Ritu Garg,L L2,55,L L,2,Ground,5,No
+2024,CSA,WEDNESDAY,4,5th,P,CSPC33,SOFT COMPUTING,Dr. Bharati Sinha,LAB 6,110,LAB,6,First,3,Yes
+2024,CSA,WEDNESDAY,1,5th,P,CSPE35,Mobile Application Development,Dr. Amandeep Kaur,LAB 10,110,LAB,10,First,1,Yes
+2024,CSA,WEDNESDAY,1,5th,L,CSPC33,Soft Computing,Dr. Bharati Sinha,L LHC 106,55,L LHC,106,Ground,5,No
+2024,CSA,WEDNESDAY,2,5th,L,CSPC 39,Seminar,Prof. A.K.Singh,Seminar Room,110,Seminar Room,,,6,Yes
+2024,CSA,THURSDAY,1,5th,L,CSPC31,Advanced Data Structures and Algorithms,Dr. Ritu Garg,L L1,55,L L,1,Ground,2,No
+2024,CSA,THURSDAY,1,5th,P,CSPC35,SOFTWARE DEVELOPMENT,Dr. S.K.Jain,LAB 10,110,LAB,10,First,7,Yes
+2024,CSA,THURSDAY,1,5th,L,CSPC35,Software Development using UML and Agile Methodology,Dr. Vikram Singh,L L1,55,L L,1,Ground,4,No
+2024,CSA,THURSDAY,1,5th,L,CSPC37,Automata Theory,Dr. A.K.Patel,L L1,55,L L,1,Ground,3,No
+2024,CSA,THURSDAY,1,5th,L,CSPE35,Mobile Application Development,Mr. Rohit,L LHC 105,55,L LHC,105,Ground,5,No
+2024,CSA,THURSDAY,1,5th,L,CSPE77,Image Processing,MS. Nidhi,L L1,55,L L,1,Ground,1,No
+2024,CSA,THURSDAY,2,5th,P,CSPC31,ADVANCED DATA STRUCTURES AND ALGORITHMS,Dr. Ritu Garg,LAB 6,110,LAB,6,First,2,Yes
+2024,CSA,THURSDAY,3,5th,P,CSPC33,SOFT COMPUTING,Mr. Shivam,LAB 3,110,LAB,3,Ground,2,No
+2024,CSA,THURSDAY,,5th,P,CSPC35,SOFTWARE DEVELOPMENT,Dr. S.K.Jain,LAB 4,110,LAB,4,Ground,1,No
+2024,CSA,FRIDAY,3,5th,P,CSPE35,Mobile Application Development,Ms. Ikshita,LAB 4,110,LAB,4,Ground,1,No
+2024,CSA,FRIDAY,2,5th,P,CSPE35,Mobile Application Development,Mr. Rohit,LAB 9,110,LAB,9,First,3,Yes
+2024,CSA,FRIDAY,2,5th,P,CSPC35,SOFTWARE DEVELOPMENT,Dr. S.K.Jain,LAB 6,110,LAB,6,First,1,Yes
+2024,CSA,FRIDAY,1,5th,L,CSPE77,Image Processing,MS. Nidhi,L L2,55,L L,2,Ground,9,No
+2024,CSA,FRIDAY,1,5th,L,CSPE35,Mobile Application Development,Mr. Rohit,L L2,55,L L,2,Ground,7,No
+2024,CSA,FRIDAY,1,5th,L,CSPC35,Software Development using UML and Agile Methodology,Dr. Vikram Singh,L L2,55,L L,2,Ground,6,No
+2024,CSA,FRIDAY,1,5th,P,CSPC33,SOFT COMPUTING,Dr. Bharati Sinha,LAB 1,110,LAB,1,Ground,3,No
+2024,CSA,FRIDAY,4,5th,P,CSPC31,ADVANCED DATA STRUCTURES AND ALGORITHMS,Dr. Ritu Garg,LAB 6,110,LAB,6,First,3,Yes
+2024,CSA,FRIDAY,1,5th,L,CSPC31,Advanced Data Structures and Algorithms,Dr. Ritu Garg,L L2,55,L L,2,Ground,8,No
